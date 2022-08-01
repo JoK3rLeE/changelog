@@ -1,15 +1,19 @@
 # Changelog
 
-### Device Side changes:
-  - Switched to SOVIET STAR kernel 
+## PixelExtended_cepheus-12.1-20220801-1603-UNOFFICIAL
+
+*Clean flash recommended
+
+### Device Side changes: 
   - Added 195Mhz and 810Mhz GPU Clock for UC and OC
+  - Fixed DC Dimming after switched to SOVIET+ Kernel 
+  - Fixed Dirac (Kanged from Evolution-X cepheus device trees)
+  - Forced Disabled IORAP and ZRAM Writeback to fix random freeze issue. 
+  - Refactor Overlay (Kanged from Evolution-X cepheus device trees)
+  - Uses Private AVB Keys instead of public testkey
+  - Uses Xiaomi Global fingerprint (V12.5.1.0.RFAMIXM fingerprint)
   - Switched to MGC Gcam instead of stock cam 
-  - Uses Xiaomi Global fingerprint
-  - Forced Disabled IORAP and ZRAM Writeback ro fix random freeze issue. 
-  - User can flash other recovery instead of sticking AOSP recovery (Won't override anymore)
-  - Uses custom AVB Keys instead of public testkey
-  - Fixed Dirac (Kanged Evolution-X cepheus device trees)
-  - Kanged rework overly from Evolution-X cepheus DT
+  - Switched to SOVIET STAR kernel (Thanks to Niviann bring back SOVIET for Mi 9 and credit to @NATO66613)
 
 ### ROM Side changes:
   V4.7 Summer Month!
@@ -23,3 +27,6 @@
   - Add Less boring heads up option
   - Make colored Statusbar Icons optional
   - ... and other small improvement
+  
+## Known Issue 
+  - Green tint on status bar when using black wallpaper (padding issue)
