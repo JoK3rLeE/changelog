@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_cepheus-12.1-20220801-1741-UNOFFICIAL.zip",
-"datetime": 1659375674,
-"size":2024365886, 
-"url":"https://sourceforge.net/projects/device-xiaomi-cepheus/files/PixelExtended/PixelExtended_cepheus-12.1-20220801-1741-UNOFFICIAL.zip/download", 
-"filehash":"3cc53c1b6d84ec8f33ae26ab681284ac", 
+"filename": "PixelExtended_cepheus-12.1-20220801-1605-UNOFFICIAL.zip",
+"datetime": null,
+"size":null, 
+"url":"null", 
+"filehash":"null", 
 "version": "12", 
 "pexv": "4.7", 
-"id": "82c0c98a837173ec3cc489763ded6cfc1af06f5be6b09c0ffc4c9dbd606526a7",
+"id": "null",
 "tg_username": "JoKeRLeE", 
 "device_name":"Xiaomi Mi 9", 
 "device":"cepheus", 
-"xda_thread":"https://github.com/JoK3rLeE/changelog"
+"xda_thread":"null"
 }
