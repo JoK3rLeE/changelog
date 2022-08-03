@@ -1,1 +1,5 @@
-ef32ade9056dd895cd715309aab714ac3243557a327984c5ca4739507387efe5
+In PixelExtended_cepheus-12.1-20220803-1553-UNOFFICIAL:
+
+Fixed Changelog not showing 
+Fixed custom AVB key issue
+Set TARGET_USES_AOSP_RECOVERY to true
