@@ -1,5 +1,9 @@
-In PixelExtended_cepheus-12.1-20220803-1553-UNOFFICIAL:
+In 12.1-20220803-1553-UNOFFICIAL:
 
 Fixed Changelog not showing 
 Fixed custom AVB key issue
 Set TARGET_USES_AOSP_RECOVERY to true
+
+Clean flash is recommended. 
+
+NOTE: THIS IS A TEST BUILD.
